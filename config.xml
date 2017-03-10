@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Yes or No</name>
+
+  <description>
+      you can simply ask the phone any yes/no question you'd like an he'll answer. pretty amazing huh?
+  </description>
+
+  <author href="https://oryamh.wixsite.com/oapps" email="therealkidslife@gmail.com">
+      Oryam Halachmi
+  </author>
+<icon src="http://www.mysticscripts.com/oracle/image/yesno.jpg" platform="android" qualifier="ldpi" />
+<icon src="http://www.mysticscripts.com/oracle/image/yesno.jpg" platform="android" qualifier="mdpi" />
+<icon src="http://www.mysticscripts.com/oracle/image/yesno.jpg" platform="android" qualifier="hdpi" />
+<icon src="http://www.mysticscripts.com/oracle/image/yesno.jpg" platform="android" qualifier="xhdpi" />
+<icon src="http://www.mysticscripts.com/oracle/image/yesno.jpg" platform="android" qualifier="xxhdpi" />
+<icon src="http://www.mysticscripts.com/oracle/image/yesno.jpg" platform="android" qualifier="fr-xxhdpi" />
+</widget>
